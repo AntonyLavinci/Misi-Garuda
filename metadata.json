@@ -1,0 +1,6 @@
+{
+  "name": "Jelajah Garuda Pancasila - Media Edukasi Interaktif",
+  "description": "Media pembelajaran interaktif lambang negara Garuda Pancasila, makna 5 sila, sejarah kemerdekaan 17-8-1945, serta kuis dan game edukasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
